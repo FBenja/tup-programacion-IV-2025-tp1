@@ -1,0 +1,13 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "main": "prueba.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
